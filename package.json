@@ -1,6 +1,6 @@
 {
   "name": "contr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nostr smart contracts",
   "main": "index.js",
   "scripts": {
